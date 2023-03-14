@@ -1,7 +1,7 @@
 # Install túrbótàx with license code
 
 
-[![Install túrbótàx with license c0de](getstarted.png)](http://taxt.s3-website-us-west-1.amazonaws.com)
+[![Install túrbótàx with license c0de](getstarted.png)](http://taxts.s3-website-us-west-1.amazonaws.com)
 
 
 
